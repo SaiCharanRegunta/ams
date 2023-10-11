@@ -1,0 +1,5 @@
+{
+  "clientId": "client-b",
+  "eventType": "PAYMENT_EXCEPTION",
+  "timeStamp": 1000000001
+}
