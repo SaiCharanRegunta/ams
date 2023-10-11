@@ -1,2 +1,2 @@
 # ams
-In house Alert Monitoring System
+This project is an in-house alert monitoring system developed using Spring Boot and MongoDB. It was created as part of a time-constrained assignment for a company, which shall remain unnamed due to a NDA. In just 8 hours, the system was designed and implemented to efficiently handle alert notifications. A sample integration test case is included to test the system's functionality. Please refer to the Implementation note for more details on getting started and using this system.
